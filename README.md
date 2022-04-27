@@ -1,2 +1,2 @@
 # Info1
-# Aufgaben auf der IndIT Vorlesung
+# Aufgaben aus der IndIT Vorlesung
